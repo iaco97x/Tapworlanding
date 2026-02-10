@@ -1,0 +1,19 @@
+🖼️ SCREENSHOT DA CARICARE IN public/images/
+
+Rinomina i 4 screenshot di TapWork ESATTAMENTE con questi nomi:
+
+✅ app-icon.png          ← Screenshot 1 (Icona app)
+✅ timer-screen.png      ← Screenshot 2 (Schermata timer)
+✅ activity-screen.png   ← Screenshot 3 (Grafici attività)
+✅ week-screen.png       ← Screenshot 4 (Anelli settimanali)
+
+⚠️ IMPORTANTE:
+- Tutto minuscolo
+- Usa il trattino "-" (non underscore "_")
+- Estensione .png
+
+📁 Percorso finale su GitHub:
+public/images/app-icon.png
+public/images/timer-screen.png
+public/images/activity-screen.png
+public/images/week-screen.png
