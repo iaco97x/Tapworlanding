@@ -1,9 +1,9 @@
 import { motion } from 'motion/react';
 import { BarChart3, PieChart } from 'lucide-react';
 
-// Per GitHub Pages: usa path relativi alla cartella public/
-const activityScreen = '/tapworlanding/images/activity-screen.png';
-const weekScreen = '/tapworlanding/images/week-screen.png';
+/// Path per dominio custom
+const activityScreen = '/images/activity-screen.png';
+const weekScreen = '/images/week-screen.png';
 
 export function Dashboard() {
   return (
