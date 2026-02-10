@@ -1,9 +1,9 @@
 import { motion } from 'motion/react';
 import { Download } from 'lucide-react';
 
-// Per GitHub Pages: usa path relativi alla cartella public/
-const appIcon = '/tapworlanding/images/app-icon.png';
-const timerScreen = '/tapworlanding/images/timer-screen.png';
+// Path per dominio custom
+const appIcon = '/images/app-icon.png';
+const timerScreen = '/images/timer-screen.png';
 
 export function Hero() {
   return (
