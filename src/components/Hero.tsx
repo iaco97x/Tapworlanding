@@ -46,7 +46,7 @@ export function Hero() {
               }}
             >
               <Download className="h-6 w-6" />
-              <span>Scaricala ora dall'AppStore</span>
+              <span>Scaricala ora</span>
             </motion.a>
           </motion.div>
 
