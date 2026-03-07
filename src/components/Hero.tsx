@@ -46,7 +46,7 @@ export function Hero() {
               }}
             >
               <Download className="h-6 w-6" />
-              <span>Prova la Beta su TestFlight</span>
+              <span>Scaricala ora dall'AppStore</span>
             </motion.a>
           </motion.div>
 
