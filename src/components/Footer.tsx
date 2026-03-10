@@ -26,13 +26,16 @@ export function Footer() {
             whileTap={{ scale: 0.95 }}
             className="inline-flex items-center gap-3 rounded-[20px] bg-[#007AFF] px-8 py-4 text-white shadow-lg transition-all hover:shadow-xl mb-8"
           >
-            <span>Prova la Beta su TestFlight</span>
+            <span>Scaricala ora</span>
           </motion.a>
           
           <div className="mt-12 pt-8 border-t border-gray-300">
             <p className="text-sm text-gray-500">
               © 2026 TapWork. Tutti i diritti riservati.
-            </p>
+            </p> 
+            <p className="text-sm text-gray-500">
+              Informativa sulla privacy.
+            </p> 
           </div>
         </motion.div>
       </div>
