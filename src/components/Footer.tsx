@@ -33,6 +33,14 @@ export function Footer() {
             <p className="text-sm text-gray-500">
               © 2026 TapWork. Tutti i diritti riservati.
             </p> 
+            <a 
+              href="https://privacy.tapwork.it" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="text-sm text-[#007AFF] hover:underline mt-2 inline-block"
+            >
+              Informativa sulla Privacy
+            </a>
           </div>
         </motion.div>
       </div>
