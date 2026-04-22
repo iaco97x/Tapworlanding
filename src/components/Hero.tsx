@@ -34,7 +34,7 @@ export function Hero() {
             </p>
             
             <motion.a
-              href="https://testflight.apple.com/join/uahVF1EJ"
+              href="https://apps.apple.com/us/app/tapwork/id6757710879"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05 }}
